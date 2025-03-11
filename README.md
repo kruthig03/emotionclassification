@@ -1,6 +1,7 @@
 # emotionclassification
 
 Kruthi Gollapudi and Kannon Bhattacharyya
+
 Emotion Classification project repository for CMSC 25700 NLP final project.
 
 This repository contains three directories containing the data used, notebooks for evaluation, and model results.
