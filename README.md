@@ -1,5 +1,7 @@
 # emotionclassification
 
+Kruthi Gollapudi and Kannon Bhattacharyya
+
 Emotion Classification project repository for CMSC 25700 NLP final project.
 
 This repository contains three directories containing the data used, notebooks for evaluation, and model results.
@@ -20,6 +22,7 @@ The notebooks directory contains:
 -  EmotionClassification-Reddit.ipynb: used for classification on the reddit dataset
 
 The results directory contains:
--  all model .pth files
+-  bert model files
+-  all .pth model files are too large to store in github, they are stored locally in this directory
 
 
