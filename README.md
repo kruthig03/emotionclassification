@@ -22,7 +22,7 @@ The notebooks directory contains:
 -  EmotionClassification-Reddit.ipynb: used for classification on the reddit dataset
 
 The results directory contains:
--  bert model files
+-  nothing in the remote
 -  all .pth model files are too large to store in github, they are stored locally in this directory
 
 
